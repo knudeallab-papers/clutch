@@ -3,5 +3,6 @@
  * All rights reserved. 
  **************************************************/
  
- - Open for the purpose of reproducibility for IEEE Access 
-- You cannot distribute or copy this repository without KNU DEAL Lab's permission
+- Provided for verifying our paper's reproducibility by IEEE Access 
+
+- [Note] You can NOT distribute or copy this repository without KNU DEAL Lab's permission.

@@ -1,0 +1,2 @@
+- Open for the purpose of reproducibility for IEEE Access 
+- You cannot distribute or copy this repository without KNU DEAL Lab's permission
